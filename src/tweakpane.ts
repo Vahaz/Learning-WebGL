@@ -14,7 +14,8 @@ export const SETTINGS = {
     benchmark_fps: 0.0,
     benchmark_loading_time: 0.0,
 
-    source_github: 'null'
+    source_github: 'https://github.com/Vahaz/Learning-WebGL',
+    source_tweakpane: 'https://tweakpane.github.io/docs/'
 };
 
 export function init() {
@@ -83,7 +84,10 @@ export function init() {
 
     const fSource = pane.addFolder({title: 'Sources', expanded: false});
 
-    fSource.addButton({title: 'See Repo', label: 'Github'}).on('click', () => {
+    fSource.addButton({title: 'See Repository', label: 'Github Repository'}).on('click', () => {
         window.open(SETTINGS.source_github, '_blank');
+    });
+    fSource.addButton({title: 'See Page', label: 'Tweakpane Docs'}).on('click', () => {
+        window.open(SETTINGS.source_tweakpane, '_blank');
     });
 };

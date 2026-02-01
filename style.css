@@ -44,6 +44,18 @@ footer {
     overflow: hidden !important;
 }
 
+.tp-btnv_b {
+    background-color: transparent !important;
+}
+
+.tp-btnv_t {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.tp-btnv_t:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
 #webgl-canvas {
     width: clamp(0px, 95%, 720px) !important;
     image-rendering: crisp-edges;
