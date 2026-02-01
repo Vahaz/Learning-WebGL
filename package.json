@@ -1,0 +1,22 @@
+{
+  "name": "webgl",
+  "description": "WebGL Learning Project",
+  "license": "MIT",
+  "author": "Vahaz",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "dependencies": {
+    "https-localhost": "^4.7.1",
+    "tweakpane": "^4.0.5",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@tweakpane/core": "^2.0.5",
+    "baseline-browser-mapping": "^2.9.19",
+    "ts-loader": "^9.5.2",
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
+  }
+}
