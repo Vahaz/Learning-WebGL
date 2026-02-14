@@ -8,7 +8,7 @@ Personnal project to learn WebGL thanks to Youtube / Online tutorials.
 Code and explanation might not be 100% accurate and efficient.
 
 This project was started on the : 29th of May, 2025.
-It was last updated on the : 1st of February, 2026.
+It was last updated on the : 14th of February, 2026.
 ```
 
 ## ⭐ PACKAGE @VERSION

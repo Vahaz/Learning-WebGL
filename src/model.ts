@@ -1,7 +1,3 @@
-//
-// CLASS
-//
-
 import { vec3 } from "./vec3"
 import { quat } from "./quat"
 import { mat4 } from "./mat4"
