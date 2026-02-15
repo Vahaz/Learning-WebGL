@@ -1,6 +1,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-v5.8.3-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Webpack](https://img.shields.io/badge/Webpack-v5.99.9-blue?logo=webpack)](https://webpack.js.org/)
-[![Webpack](https://img.shields.io/badge/Licence-MIT-yellow)](https://opensource.org/licenses/MIT)
+[![Licence](https://img.shields.io/badge/Licence-MIT-yellow)](https://opensource.org/licenses/MIT)
 
 ## 🔥 ABOUT
 ```yml
@@ -8,7 +8,7 @@ Personnal project to learn WebGL thanks to Youtube / Online tutorials.
 Code and explanation might not be 100% accurate and efficient.
 
 This project was started on the : 29th of May, 2025.
-It was last updated on the : 14th of February, 2026.
+It was last updated on the : 15th of February, 2026.
 ```
 
 ## ⭐ PACKAGE @VERSION
